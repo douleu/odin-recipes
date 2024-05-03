@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+* {
+    color: white;
+}
+
+h2 {
+    padding: 8px;
+    border: 8px;
+    border-style: groove;
+}
+
+.odin,
+.title,
+.list {
+    text-align: center;
+}
+
+.pic {
+    display: block;
+    margin: auto;
+}
+
+
